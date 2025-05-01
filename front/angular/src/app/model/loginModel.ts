@@ -12,3 +12,5 @@ export class LoginModel {
       public data: T[] = []
     ) {}
   }
+
+  
